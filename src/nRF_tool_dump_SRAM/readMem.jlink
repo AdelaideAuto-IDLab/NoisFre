@@ -1,0 +1,2 @@
+savebin ./TEST_0.bin 0x20000000 0x10000
+exit
