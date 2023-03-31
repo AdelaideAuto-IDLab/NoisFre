@@ -4,6 +4,8 @@ Source code and additional documentation for *NoisFre: Noise-Tolerant Memory Fin
 
 [![Demo video](https://img.youtube.com/vi/O5NWZw-swpw/0.jpg)](https://www.youtube.com/watch?v=O5NWZw-swpw)
 
+*Click the image above to watch our demo video!*
+
 ## Overview
 
 - `/src/`: All source code used in this Project.
