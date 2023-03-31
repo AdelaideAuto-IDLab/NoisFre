@@ -16,7 +16,11 @@ Source code and additional documentation for *NoisFre: Noise-Tolerant Memory Fin
 This repository is provided as part of the following paper:
 
 Gao Y, Su Y, Nepal S, et al. "NoisFre: Noise-tolerant memory fingerprints
-from commodity devices for security functions." IEEE Transactions on Dependable and Secure Computing, Early Access, 2022,
+from commodity devices for security functions." IEEE Transactions on Dependable and Secure Computing, Early Access, 2022
+
+IEEE Xplore: https://ieeexplore.ieee.org/document/9950309
+
+Researchgate (free access): https://www.researchgate.net/publication/365387021_NoisFre_Noise-Tolerant_Memory_Fingerprints_From_Commodity_Devices_for_Security_Functions
 
 Cite using:
 
